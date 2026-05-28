@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervelete",
+        "uuid": 14825958,
+        "checksum": "x8v845"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
